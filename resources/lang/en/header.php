@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'Home'             => 'Home',
+    'Who we are'       => 'Who we are',  
+    'About us'         => 'About us',
+    'Awards'           => 'Awards',
+    'Testimonials'     => 'Testimonials',
+    'What we do'       => 'What we do',
+    'Products'         => 'Products',
+    'Payments'         => 'Payments',
+    'Gallery'          => 'Gallery',
+    'News letter'      => 'News letter',
+    'Reach us'         => 'Reach us', 
+    'Language'         => 'Language',
+    'Login'            => 'Login',
+    'Address'          => 'Address',
+    'MkSamyComplex'    => 'Mk Samy Complex',
+    'Komarapalayam'    => 'Komarapalayam',
+    'Tamil Nadu'       => 'Tamil Nadu',  
+    "Call Us"          => 'Call Us'  ,
+    'Mail Us'          => 'Mail Us',
+    'Working Day'      => 'Working Day',
+    'Monday to Saturday'=>'Monday to Saturday',
+    'Working Time'     =>'Working Time',
+];
